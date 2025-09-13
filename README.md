@@ -24,7 +24,7 @@ This project implements real-time object detection and vehicle tracking using th
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ZIEDSAGGUEM/counting_cars.git
+   git clone https://github.com/AryanShivva/counting_cars.git
    cd counting_cars
 
 2. Run the script:
